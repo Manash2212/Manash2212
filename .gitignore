@@ -1,3 +1,7 @@
-/mylogs.log
+/mylogs.log 
 *.log
-*.html
+CSS/
+
+# 1. (/mylogs.log ) to ignore specific files
+# 2.(*.log)  to ignore specific log files
+# 3. (CSS/) to ignore specific folders
