@@ -1,6 +1,6 @@
 /mylogs.log 
 *.log
-CSS/
+
 
 # 1. (/mylogs.log ) to ignore specific files
 # 2.(*.log)  to ignore specific log files
