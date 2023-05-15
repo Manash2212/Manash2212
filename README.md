@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Manash2212
-- 👀 I’m interested in ... Web DevelopMent
-- 🌱 I’m currently learning ... MERN stack
+- 👋 Hi, I’m Manash Halder
+- 👀 I've interested in ... Web DevelopMent
+- 👨‍💻 Currently i'm a Front-End Deeloper
+- 🌱 I’m learning ... MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... manashhalder2212@gmail.com
 
