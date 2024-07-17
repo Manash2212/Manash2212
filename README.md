@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻I'm currently working on Frontend Developer<br>🤝I'm looking to collaborate on projects<br>🧑🏻‍💻I'm looking for help with Backend Services<br>🌱I'm currently learning Backend part<br>💬Ask me about anything web Related
+👨🏻‍💻I'm currently working as a Frontend Developer<br>🤝I'm looking to collaborate on projects<br>🧑🏻‍💻I'm looking for help with Backend Services<br>🌱I'm currently learning Backend part<br>💬Ask me about anything web Related
 
 
 ## 🌐 Socials:
